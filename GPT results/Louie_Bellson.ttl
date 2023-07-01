@@ -1,0 +1,90 @@
+@prefix : <http://www.semanticweb.org/KEProject/MusicalInfluences#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:Louie_Bellson rdf:type :MusicArtist.
+:Louie_Bellson :playsGenre :Jazz .
+:Louie_Bellson :cityInCountry :Rock_Falls_Illinois .
+:Louie_Bellson :countryHasCity :United_States .
+:Louie_Bellson :createsRecording :Bursting_Out_with_the_All_Star_Big_Band .
+:Louie_Bellson :createsAlbum :Skin_Deep .
+:Louie_Bellson :hasMember :Count_Basie_Orchestra .
+:Louie_Bellson :performedWith :Dizzy_Gillespie .
+:Louie_Bellson :sharedMusicGroupWith :Clark_Terry .
+:Louie_Bellson :belongsToGenre :Big_band_music .
+:Louie_Bellson :cityInCountry :Rock_Falls_Illinois .
+:Louie_Bellson :countryHasCity :United_States .
+:Louie_Bellson :createsRecording :Bursting_Out_with_the_All_Star_Big_Band .
+:Louie_Bellson :createsAlbum :Skin_Deep .
+:Louie_Bellson :createsScore :Concert_for_Duke .
+:Louie_Bellson :hasMember :Count_Basie_Orchestra .
+:Louie_Bellson :performedWith :Dizzy_Gillespie .
+:Louie_Bellson :sharedMusicGroupWith :Clark_Terry .
+:Louie_Bellson :hasLyricsAuthor :I_Can_t_Get_Started .
+:Louie_Bellson :hasRecordingAuthor :An_Intimate_Perspective .
+:Louie_Bellson :hasScoreAuthor :Breakfast_Dance_and_Barbecue .
+:Louie_Bellson :hasAuthor :Six_Young_Women_and_One_Man .
+:Louie_Bellson :hasAlbumAuthor :Thunderbird .
+:Louie_Bellson :hasLyricsAuthor :Black_Brown_and_Beige .
+:Louie_Bellson :hasRecordingAuthor :Summit_Meeting .
+:Louie_Bellson :hasScoreAuthor :Directors_Choice .
+:Louie_Bellson :hasAuthor :Breakfast_Dance_and_Barbecue .
+:Louie_Bellson :hasAlbumAuthor :Crescendo_Suite .
+:Louie_Bellson :birthCity :Rock_Falls_Illinois .
+:Louie_Bellson :wasInfluencedBy :Jo_Jones .
+:Louie_Bellson :wasInfluencedBy :Sid_Catlett .
+:Louie_Bellson :wasInfluencedBy :Chick_Webb .
+
+:Louie_Bellson :performedWith :Benny_Goodman .
+:Louie_Bellson :performedWith :Tommy_Dorsey .
+:Louie_Bellson :performedWith :Harry_James .
+:Louie_Bellson :performedWith :Duke_Ellington .
+
+:Louie_Bellson :closeFriendOf :Pearl_Bailey .
+
+:Louie_Bellson :collaboratedWith :Dorsey_Brothers .
+:Louie_Bellson :collaboratedWith :Jazz_at_the_Philharmonic .
+:Louie_Bellson :collaboratedWith :Norgran_Records .
+:Louie_Bellson :collaboratedWith :Verve_Records .
+:Louie_Bellson :collaboratedWith :Ray_Brown .
+:Louie_Bellson :collaboratedWith :Pete_Candoli .
+:Louie_Bellson :collaboratedWith :Conte_Candoli .
+:Louie_Bellson :collaboratedWith :Chuck_Findley .
+:Louie_Bellson :collaboratedWith :John_Heard .
+:Louie_Bellson :collaboratedWith :Roger_Ingram .
+:Louie_Bellson :collaboratedWith :Don_Menza .
+:Louie_Bellson :collaboratedWith :Blue_Mitchell .
+:Louie_Bellson :collaboratedWith :Larry_Novak .
+:Louie_Bellson :collaboratedWith :Nat_Pierce .
+:Louie_Bellson :collaboratedWith :Frank_Rosolino .
+:Louie_Bellson :collaboratedWith :Bobby_Shew .
+:Louie_Bellson :collaboratedWith :Clark_Terry .
+:Louie_Bellson :collaboratedWith :Snooky_Young .
+:Louie_Bellson :includedInAlbum :The_Sacred_Music_of_Louie_Bellson_and_the_Jazz_Ballet .
+
+:Conte_Candoli :wasInfluencedBy :Snooky_Young .
+:Snooky_Young :performedWith :Count_Basie.
+:Snooky_Young :performedWith :Gerald_Wilson.
+:Snooky_Young :performedWith :Lionel_Hampton.
+
+:Count_Basie :livedInCity :Red_Bank.
+:Red_Bank rdfs:label "Red Bank".
+
+:Snooky_Young rdfs:label "Snooky Young".
+:Count_Basie rdfs:label "Count Basie".
+:Lionel_Hampton rdfs:label "Lionel Hampton".
+:Chicago rdfs:label "Chicago".
+
+:Count_Basie rdf:type :MusicArtist.
+:Gerald_Wilson rdf:type :MusicArtist.
+:Lionel_Hampton rdf:type :MusicArtist.
+
+
+:thrillerRelease a :ReleaseSituation .
+:Michael_Jackson a :MusicArtist.
+:thrillerRelease :involvesArtist :Michael_Jackson.
+:thrillerRelease :releaseOfAlbum :thriller.
+:thriller a :Album.
+:thrillerRelease :onDate "1982"^^xsd:gYear . 
+:Michael_Jackson rdfs:label "Michael Jackson".

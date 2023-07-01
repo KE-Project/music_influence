@@ -6,8 +6,8 @@
             :birthYear "1903" ;
             :birthDate "May 3, 1903" ;
             :birthState "Washington" ;
-            :birthCity "Tacoma" ;
-            :birthCountry "United States" ;
+            :birthCity :Tacoma ;
+            :birthCountry :United_States ;
             :gender "Male" ;
             :bestKnownFor "Bing Crosby sang such hit songs as the ever-popular holiday classic 'White Christmas.' The beloved crooner was also a star of radio, movies, and television." ;
             :astrologicalSign "Taurus" ;

@@ -1,0 +1,54 @@
+@prefix : <http://www.semanticweb.org/KEProject/MusicalInfluences#> .
+
+
+:Lionel_Hampton rdf:type :MusicArtist.
+:Lionel_Hampton :birthCity :Louisville_Kentucky .
+:Lionel_Hampton :birthCountry :United_States .
+
+:Lionel_Hampton :performedWith :Louis_Armstrong .
+:Lionel_Hampton :performedWith :Benny_Goodman .
+:Lionel_Hampton :performedWith :Gene_Krupa .
+:Lionel_Hampton :performedWith :Teddy_Wilson .
+:Lionel_Hampton :performedWith :Wes_Montgomery .
+:Lionel_Hampton :performedWith :Clifford_Brown .
+:Lionel_Hampton :performedWith :Art_Farmer .
+:Lionel_Hampton :performedWith :Dexter_Gordon .
+:Lionel_Hampton :performedWith :Quincy_Jones .
+:Lionel_Hampton :performedWith :Joe_Williams .
+:Lionel_Hampton :performedWith :Dinah_Washington .
+:Lionel_Hampton :performedWith :Betty_Carter .
+:Lionel_Hampton :performedWith :Aretha_Franklin .
+
+:Lionel_Hampton :memberOf :Les_Hite .
+:Lionel_Hampton :memberOf :Benny_Goodman_Trio .
+:Lionel_Hampton :memberOf :Benny_Goodman_Quartet .
+:Lionel_Hampton :memberOf :Benny_Goodman .
+:Lionel_Hampton :playsGenre :Drum_kit .
+:Lionel_Hampton :coversMusicRole :Piano .
+:Lionel_Hampton :coversMusicRole :Singing .
+:Lionel_Hampton :livedInCity :Chicago .
+:Lionel_Hampton :livedInCity :Los_Angeles .
+:Lionel_Hampton :livedInCountry :United_States .
+
+:Lionel_Hampton :memberOf :Lionel_Hampton_Orchestra .
+:Lionel_Hampton :memberOf :Lionel_Hampton_Big_Band .
+:Lionel_Hampton :memberOf :Lionel_Hampton_and_His_All_Stars .
+:Lionel_Hampton :memberOf :Dizzy_Gillespie_Big_Band .
+:Lionel_Hampton :memberOf :Charlie_Parker_Quintet .
+:Lionel_Hampton :memberOf :Clef_Club_Big_Band .
+:Lionel_Hampton :memberOf :The_Benny_Goodman_Orchestra .
+
+:Lionel_Hampton :createsAlbum :Lionel_Hampton_Quartet .
+:Lionel_Hampton :createsAlbum :Lionel_Hampton_Quintet .
+
+:Lionel_Hampton :playsGenre :Swing .
+:Lionel_Hampton :playsGenre :Big_Band .
+:Lionel_Hampton :coversMusicRole :Vibraphone .
+:Lionel_Hampton :coversMusicRole :Drums .
+:Lionel_Hampton :createsAlbum :Hamp_The_Legendary_Decca_Recordings .
+:Lionel_Hampton :createsAlbum :Lionel_Hampton_and_His_Orchestra .
+:Lionel_Hampton :createsAlbum :Flying_Home .
+:Lionel_Hampton :hasAuthor :Lionel_Hampton .
+:Lionel_Hampton :hasAlbumAuthor :Lionel_Hampton .
+:Lionel_Hampton :influenced :Quincy_Jones .
+
