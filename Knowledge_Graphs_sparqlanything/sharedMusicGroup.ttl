@@ -1,0 +1,515 @@
+<http://base.semlab.io/entity/Q723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q723> <http://www.w3.org/2000/01/rdf-schema#label> "Jerome Richardson" .
+<http://base.semlab.io/entity/Q938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q938> <http://www.w3.org/2000/01/rdf-schema#label> "Jimmy Nottingham" .
+<http://base.semlab.io/entity/Q57> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q742> .
+<http://base.semlab.io/entity/Q57> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q588> .
+<http://base.semlab.io/entity/Q57> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q597> .
+<http://base.semlab.io/entity/Q57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q57> <http://www.w3.org/2000/01/rdf-schema#label> "Clark Terry" .
+<http://base.semlab.io/entity/Q295> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q661> .
+<http://base.semlab.io/entity/Q295> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18954> .
+<http://base.semlab.io/entity/Q295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q295> <http://www.w3.org/2000/01/rdf-schema#label> "Benny Golson" .
+<http://base.semlab.io/entity/Q1423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1423> <http://www.w3.org/2000/01/rdf-schema#label> "Booker Little" .
+<http://base.semlab.io/entity/Q1423> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q501> .
+<http://base.semlab.io/entity/Q370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q370> <http://www.w3.org/2000/01/rdf-schema#label> "Clifford Brown" .
+<http://base.semlab.io/entity/Q18924> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q959> .
+<http://base.semlab.io/entity/Q18924> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q410> .
+<http://base.semlab.io/entity/Q18924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18924> <http://www.w3.org/2000/01/rdf-schema#label> "Bobby Timmons" .
+<http://base.semlab.io/entity/Q18924> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18974> .
+<http://base.semlab.io/entity/Q1192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1192> <http://www.w3.org/2000/01/rdf-schema#label> "Danny Barker" .
+<http://base.semlab.io/entity/Q1192> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q72> .
+<http://base.semlab.io/entity/Q450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q450> <http://www.w3.org/2000/01/rdf-schema#label> "Red Allen" .
+<http://base.semlab.io/entity/Q971> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q954> .
+<http://base.semlab.io/entity/Q971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q971> <http://www.w3.org/2000/01/rdf-schema#label> "Buster Williams" .
+<http://base.semlab.io/entity/Q971> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q42> .
+<http://base.semlab.io/entity/Q240> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q400> .
+<http://base.semlab.io/entity/Q240> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q994> .
+<http://base.semlab.io/entity/Q240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q240> <http://www.w3.org/2000/01/rdf-schema#label> "Louie Bellson" .
+<http://base.semlab.io/entity/Q240> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1310> .
+<http://base.semlab.io/entity/Q90> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q66> .
+<http://base.semlab.io/entity/Q90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q90> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Mingus" .
+<http://base.semlab.io/entity/Q157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q157> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie Barnet" .
+<http://base.semlab.io/entity/Q468> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18997> .
+<http://base.semlab.io/entity/Q468> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q468> <http://www.w3.org/2000/01/rdf-schema#label> "Lenny White" .
+<http://base.semlab.io/entity/Q468> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18922> .
+<http://base.semlab.io/entity/Q82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q82> <http://www.w3.org/2000/01/rdf-schema#label> "Winnie Brown" .
+<http://base.semlab.io/entity/Q1386> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q379> .
+<http://base.semlab.io/entity/Q1386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1386> <http://www.w3.org/2000/01/rdf-schema#label> "Abbey Lincoln" .
+<http://base.semlab.io/entity/Q1386> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1364> .
+<http://base.semlab.io/entity/Q320> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q249> .
+<http://base.semlab.io/entity/Q320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q320> <http://www.w3.org/2000/01/rdf-schema#label> "Jane Jarvis" .
+<http://base.semlab.io/entity/Q320> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q57> .
+<http://base.semlab.io/entity/Q1697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1697> <http://www.w3.org/2000/01/rdf-schema#label> "Jaribu Shahid" .
+<http://base.semlab.io/entity/Q1671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1671> <http://www.w3.org/2000/01/rdf-schema#label> "Roswell Rudd" .
+<http://base.semlab.io/entity/Q1671> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1682> .
+<http://base.semlab.io/entity/Q74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q74> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Davis (saxophonist)" .
+<http://base.semlab.io/entity/Q74> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q33> .
+<http://base.semlab.io/entity/Q535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q535> <http://www.w3.org/2000/01/rdf-schema#label> "Norman Bates" .
+<http://base.semlab.io/entity/Q115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q115> <http://www.w3.org/2000/01/rdf-schema#label> "Willard Alexander" .
+<http://base.semlab.io/entity/Q102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q102> <http://www.w3.org/2000/01/rdf-schema#label> "Betty Carter" .
+<http://base.semlab.io/entity/Q413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q413> <http://www.w3.org/2000/01/rdf-schema#label> "Kenny Burrell" .
+<http://base.semlab.io/entity/Q400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q400> <http://www.w3.org/2000/01/rdf-schema#label> "Cat Anderson" .
+<http://base.semlab.io/entity/Q934> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18954> .
+<http://base.semlab.io/entity/Q934> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19035> .
+<http://base.semlab.io/entity/Q934> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18914> .
+<http://base.semlab.io/entity/Q934> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q934> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18981> .
+<http://base.semlab.io/entity/Q934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q934> <http://www.w3.org/2000/01/rdf-schema#label> "Freddie Hubbard" .
+<http://base.semlab.io/entity/Q934> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19005> .
+<http://base.semlab.io/entity/Q66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q66> <http://www.w3.org/2000/01/rdf-schema#label> "Max Roach" .
+<http://base.semlab.io/entity/Q66> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q90> .
+<http://base.semlab.io/entity/Q18954> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q934> .
+<http://base.semlab.io/entity/Q18954> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18981> .
+<http://base.semlab.io/entity/Q18954> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q661> .
+<http://base.semlab.io/entity/Q18954> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q436> .
+<http://base.semlab.io/entity/Q18954> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19040> .
+<http://base.semlab.io/entity/Q18954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18954> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Mabern" .
+<http://base.semlab.io/entity/Q18954> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q295> .
+<http://base.semlab.io/entity/Q501> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1423> .
+<http://base.semlab.io/entity/Q501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q501> <http://www.w3.org/2000/01/rdf-schema#label> "George Coleman" .
+<http://base.semlab.io/entity/Q317> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q872> .
+<http://base.semlab.io/entity/Q317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q317> <http://www.w3.org/2000/01/rdf-schema#label> "Marian McPartland" .
+<http://base.semlab.io/entity/Q317> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q899> .
+<http://base.semlab.io/entity/Q1147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1147> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Baker" .
+<http://base.semlab.io/entity/Q45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q45> <http://www.w3.org/2000/01/rdf-schema#label> "Ron Carter" .
+<http://base.semlab.io/entity/Q45> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q41> .
+<http://base.semlab.io/entity/Q493> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q151> .
+<http://base.semlab.io/entity/Q493> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q501> .
+<http://base.semlab.io/entity/Q493> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q496> .
+<http://base.semlab.io/entity/Q493> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q45> .
+<http://base.semlab.io/entity/Q493> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q41> .
+<http://base.semlab.io/entity/Q493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q493> <http://www.w3.org/2000/01/rdf-schema#label> "Herbie Hancock" .
+<http://base.semlab.io/entity/Q493> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q495> .
+<http://base.semlab.io/entity/Q1310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1310> <http://www.w3.org/2000/01/rdf-schema#label> "Don Abney" .
+<http://base.semlab.io/entity/Q19005> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18914> .
+<http://base.semlab.io/entity/Q19005> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q19005> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q934> .
+<http://base.semlab.io/entity/Q19005> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19035> .
+<http://base.semlab.io/entity/Q19005> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18981> .
+<http://base.semlab.io/entity/Q19005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19005> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Parker" .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q723> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q938> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q931> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q928> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q301> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q68> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q37> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q940> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q920> .
+<http://base.semlab.io/entity/Q918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q918> <http://www.w3.org/2000/01/rdf-schema#label> "Jimmy Owens" .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q736> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q777> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1262> .
+<http://base.semlab.io/entity/Q918> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q923> .
+<http://base.semlab.io/entity/Q371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q371> <http://www.w3.org/2000/01/rdf-schema#label> "Joe Benjamin" .
+<http://base.semlab.io/entity/Q37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q37> <http://www.w3.org/2000/01/rdf-schema#label> "Thad Jones" .
+<http://base.semlab.io/entity/Q892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q892> <http://www.w3.org/2000/01/rdf-schema#label> "Toshiko Akiyoshi" .
+<http://base.semlab.io/entity/Q892> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q72> .
+<http://base.semlab.io/entity/Q1639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1639> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Crosby" .
+<http://base.semlab.io/entity/Q783> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q400> .
+<http://base.semlab.io/entity/Q783> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q370> .
+<http://base.semlab.io/entity/Q783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q783> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Berry" .
+<http://base.semlab.io/entity/Q783> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q3> .
+<http://base.semlab.io/entity/Q1924> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q72> .
+<http://base.semlab.io/entity/Q1924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1924> <http://www.w3.org/2000/01/rdf-schema#label> "Vi Redd" .
+<http://base.semlab.io/entity/Q1924> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1914> .
+<http://base.semlab.io/entity/Q7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q7> <http://www.w3.org/2000/01/rdf-schema#label> "Chet Baker" .
+<http://base.semlab.io/entity/Q661> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q295> .
+<http://base.semlab.io/entity/Q661> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18954> .
+<http://base.semlab.io/entity/Q661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q661> <http://www.w3.org/2000/01/rdf-schema#label> "Art Farmer" .
+<http://base.semlab.io/entity/Q158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q158> <http://www.w3.org/2000/01/rdf-schema#label> "Wardell Gray" .
+<http://base.semlab.io/entity/Q145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q145> <http://www.w3.org/2000/01/rdf-schema#label> "Boyd Raeburn" .
+<http://base.semlab.io/entity/Q132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q132> <http://www.w3.org/2000/01/rdf-schema#label> "Gus Johnson" .
+<http://base.semlab.io/entity/Q1470> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1465> .
+<http://base.semlab.io/entity/Q1470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1470> <http://www.w3.org/2000/01/rdf-schema#label> "Delfeayo Marsalis" .
+<http://base.semlab.io/entity/Q1470> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q205> .
+<http://base.semlab.io/entity/Q18997> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q18997> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18922> .
+<http://base.semlab.io/entity/Q18997> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q468> .
+<http://base.semlab.io/entity/Q18997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18997> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Ridley" .
+<http://base.semlab.io/entity/Q246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q246> <http://www.w3.org/2000/01/rdf-schema#label> "Phil Woods" .
+<http://base.semlab.io/entity/Q246> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q93> .
+<http://base.semlab.io/entity/Q1089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1089> <http://www.w3.org/2000/01/rdf-schema#label> "Don Sebesky" .
+<http://base.semlab.io/entity/Q1177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1177> <http://www.w3.org/2000/01/rdf-schema#label> "Lockjaw Davis" .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q157> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q57> .
+<http://base.semlab.io/entity/Q137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q146> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q46> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1238> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q115> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q139> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q158> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q145> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q132> .
+<http://base.semlab.io/entity/Q137> <http://www.w3.org/2000/01/rdf-schema#label> "Buddy DeFranco" .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q101> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q72> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q138> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q155> .
+<http://base.semlab.io/entity/Q137> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q142> .
+<http://base.semlab.io/entity/Q1698> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1695> .
+<http://base.semlab.io/entity/Q1698> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1683> .
+<http://base.semlab.io/entity/Q1698> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1697> .
+<http://base.semlab.io/entity/Q1698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1698> <http://www.w3.org/2000/01/rdf-schema#label> "David Murray" .
+<http://base.semlab.io/entity/Q1698> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q908> .
+<http://base.semlab.io/entity/Q427> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q352> .
+<http://base.semlab.io/entity/Q427> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q431> .
+<http://base.semlab.io/entity/Q427> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q371> .
+<http://base.semlab.io/entity/Q427> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q413> .
+<http://base.semlab.io/entity/Q427> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q33> .
+<http://base.semlab.io/entity/Q427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q427> <http://www.w3.org/2000/01/rdf-schema#label> "Roy Haynes" .
+<http://base.semlab.io/entity/Q427> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q454> .
+<http://base.semlab.io/entity/Q19035> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18981> .
+<http://base.semlab.io/entity/Q19035> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19005> .
+<http://base.semlab.io/entity/Q19035> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q19035> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18914> .
+<http://base.semlab.io/entity/Q19035> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q934> .
+<http://base.semlab.io/entity/Q19035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19035> <http://www.w3.org/2000/01/rdf-schema#label> "Walt Miller" .
+<http://base.semlab.io/entity/Q204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q204> <http://www.w3.org/2000/01/rdf-schema#label> "Billy Higgins" .
+<http://base.semlab.io/entity/Q54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q54> <http://www.w3.org/2000/01/rdf-schema#label> "Fletcher Henderson" .
+<http://base.semlab.io/entity/Q41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q41> <http://www.w3.org/2000/01/rdf-schema#label> "Miles Davis" .
+<http://base.semlab.io/entity/Q1643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1643> <http://www.w3.org/2000/01/rdf-schema#label> "Ray Bauduc" .
+<http://base.semlab.io/entity/Q46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q46> <http://www.w3.org/2000/01/rdf-schema#label> "Joe Williams" .
+<http://base.semlab.io/entity/Q33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q33> <http://www.w3.org/2000/01/rdf-schema#label> "John Coltrane" .
+<http://base.semlab.io/entity/Q1622> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q250> .
+<http://base.semlab.io/entity/Q1622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1622> <http://www.w3.org/2000/01/rdf-schema#label> "John Lewis" .
+<http://base.semlab.io/entity/Q19006> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18998> .
+<http://base.semlab.io/entity/Q19006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19006> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Serrano" .
+<http://base.semlab.io/entity/Q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q3> <http://www.w3.org/2000/01/rdf-schema#label> "Alan Dawson" .
+<http://base.semlab.io/entity/Q994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q994> <http://www.w3.org/2000/01/rdf-schema#label> "Steve Allen" .
+<http://base.semlab.io/entity/Q250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q250> <http://www.w3.org/2000/01/rdf-schema#label> "Milt Jackson" .
+<http://base.semlab.io/entity/Q250> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1622> .
+<http://base.semlab.io/entity/Q872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q872> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Crow" .
+<http://base.semlab.io/entity/Q255> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q777> .
+<http://base.semlab.io/entity/Q255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q255> <http://www.w3.org/2000/01/rdf-schema#label> "John Levy" .
+<http://base.semlab.io/entity/Q255> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q450> .
+<http://base.semlab.io/entity/Q1098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1098> <http://www.w3.org/2000/01/rdf-schema#label> "Wynton Kelly" .
+<http://base.semlab.io/entity/Q146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q146> <http://www.w3.org/2000/01/rdf-schema#label> "Jimmy Lewis" .
+<http://base.semlab.io/entity/Q431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q431> <http://www.w3.org/2000/01/rdf-schema#label> "Nelson Boyd" .
+<http://base.semlab.io/entity/Q18998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18998> <http://www.w3.org/2000/01/rdf-schema#label> "Muhal Richard Abrams" .
+<http://base.semlab.io/entity/Q18998> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19006> .
+<http://base.semlab.io/entity/Q97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q97> <http://www.w3.org/2000/01/rdf-schema#label> "Benny Carter" .
+<http://base.semlab.io/entity/Q742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q742> <http://www.w3.org/2000/01/rdf-schema#label> "Max Baer" .
+<http://base.semlab.io/entity/Q138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q138> <http://www.w3.org/2000/01/rdf-schema#label> "Jay Johnson" .
+<http://base.semlab.io/entity/Q112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q112> <http://www.w3.org/2000/01/rdf-schema#label> "Ray Charles" .
+<http://base.semlab.io/entity/Q436> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18954> .
+<http://base.semlab.io/entity/Q436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q436> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Strozier" .
+<http://base.semlab.io/entity/Q436> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19040> .
+<http://base.semlab.io/entity/Q410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q410> <http://www.w3.org/2000/01/rdf-schema#label> "Wayne Shorter" .
+<http://base.semlab.io/entity/Q931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q931> <http://www.w3.org/2000/01/rdf-schema#label> "Roland Hanna" .
+<http://base.semlab.io/entity/Q200> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q204> .
+<http://base.semlab.io/entity/Q200> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q33> .
+<http://base.semlab.io/entity/Q200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q200> <http://www.w3.org/2000/01/rdf-schema#label> "McCoy Tyner" .
+<http://base.semlab.io/entity/Q200> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q189> .
+<http://base.semlab.io/entity/Q50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q50> <http://www.w3.org/2000/01/rdf-schema#label> "Benny Goodman" .
+<http://base.semlab.io/entity/Q314> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q281> .
+<http://base.semlab.io/entity/Q314> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1111> .
+<http://base.semlab.io/entity/Q314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q314> <http://www.w3.org/2000/01/rdf-schema#label> "Mary Lou Williams" .
+<http://base.semlab.io/entity/Q314> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1147> .
+<http://base.semlab.io/entity/Q301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q301> <http://www.w3.org/2000/01/rdf-schema#label> "Eddie Daniels" .
+<http://base.semlab.io/entity/Q68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q68> <http://www.w3.org/2000/01/rdf-schema#label> "Mel Lewis" .
+<http://base.semlab.io/entity/Q19036> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q794> .
+<http://base.semlab.io/entity/Q19036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19036> <http://www.w3.org/2000/01/rdf-schema#label> "Walter \"Baby Sweets\" Perkins" .
+<http://base.semlab.io/entity/Q205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q205> <http://www.w3.org/2000/01/rdf-schema#label> "Elvin Jones" .
+<http://base.semlab.io/entity/Q923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q923> <http://www.w3.org/2000/01/rdf-schema#label> "Charles McPherson" .
+<http://base.semlab.io/entity/Q42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q42> <http://www.w3.org/2000/01/rdf-schema#label> "Gene Ammons" .
+<http://base.semlab.io/entity/Q19028> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q22962> .
+<http://base.semlab.io/entity/Q19028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19028> <http://www.w3.org/2000/01/rdf-schema#label> "Torrie McCartney" .
+<http://base.semlab.io/entity/Q19028> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18931> .
+<http://base.semlab.io/entity/Q928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q928> <http://www.w3.org/2000/01/rdf-schema#label> "Hubert Laws" .
+<http://base.semlab.io/entity/Q18922> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18997> .
+<http://base.semlab.io/entity/Q18922> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q18922> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q468> .
+<http://base.semlab.io/entity/Q18922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18922> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Cunningham" .
+<http://base.semlab.io/entity/Q495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q495> <http://www.w3.org/2000/01/rdf-schema#label> "Gil Evans" .
+<http://base.semlab.io/entity/Q39> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q50> .
+<http://base.semlab.io/entity/Q39> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q64> .
+<http://base.semlab.io/entity/Q39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q39> <http://www.w3.org/2000/01/rdf-schema#label> "Lionel Hampton" .
+<http://base.semlab.io/entity/Q39> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q101> .
+<http://base.semlab.io/entity/Q26> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q13> .
+<http://base.semlab.io/entity/Q26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q26> <http://www.w3.org/2000/01/rdf-schema#label> "Sam Rivers" .
+<http://base.semlab.io/entity/Q26> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q7> .
+<http://base.semlab.io/entity/Q189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q189> <http://www.w3.org/2000/01/rdf-schema#label> "Curtis Porter" .
+<http://base.semlab.io/entity/Q13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q13> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie Parker" .
+<http://base.semlab.io/entity/Q18914> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19005> .
+<http://base.semlab.io/entity/Q18914> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q18914> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18981> .
+<http://base.semlab.io/entity/Q18914> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q934> .
+<http://base.semlab.io/entity/Q18914> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19035> .
+<http://base.semlab.io/entity/Q18914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18914> <http://www.w3.org/2000/01/rdf-schema#label> "Al Plank" .
+<http://base.semlab.io/entity/Q671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q671> <http://www.w3.org/2000/01/rdf-schema#label> "Ed Shaughnessy" .
+<http://base.semlab.io/entity/Q671> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q72> .
+<http://base.semlab.io/entity/Q1081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1081> <http://www.w3.org/2000/01/rdf-schema#label> "Nat Adderley" .
+<http://base.semlab.io/entity/Q22962> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18931> .
+<http://base.semlab.io/entity/Q22962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q22962> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Saxton" .
+<http://base.semlab.io/entity/Q22962> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19028> .
+<http://base.semlab.io/entity/Q588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q588> <http://www.w3.org/2000/01/rdf-schema#label> "Joe Bardussen" .
+<http://base.semlab.io/entity/Q575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q575> <http://www.w3.org/2000/01/rdf-schema#label> "Herb Barman" .
+<http://base.semlab.io/entity/Q352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q352> <http://www.w3.org/2000/01/rdf-schema#label> "Ted Briscoe" .
+<http://base.semlab.io/entity/Q899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q899> <http://www.w3.org/2000/01/rdf-schema#label> "Mousey Alexander" .
+<http://base.semlab.io/entity/Q155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q155> <http://www.w3.org/2000/01/rdf-schema#label> "Johnnie Davis" .
+<http://base.semlab.io/entity/Q142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q142> <http://www.w3.org/2000/01/rdf-schema#label> "Lenny Lewis" .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1082> .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q281> .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1081> .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q35> .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1098> .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1089> .
+<http://base.semlab.io/entity/Q663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q663> <http://www.w3.org/2000/01/rdf-schema#label> "Slide Hampton" .
+<http://base.semlab.io/entity/Q663> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q635> .
+<http://base.semlab.io/entity/Q777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q777> <http://www.w3.org/2000/01/rdf-schema#label> "Cannonball Adderley" .
+<http://base.semlab.io/entity/Q93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q93> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah Vaughan" .
+<http://base.semlab.io/entity/Q18981> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18914> .
+<http://base.semlab.io/entity/Q18981> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18954> .
+<http://base.semlab.io/entity/Q18981> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19035> .
+<http://base.semlab.io/entity/Q18981> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q934> .
+<http://base.semlab.io/entity/Q18981> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18957> .
+<http://base.semlab.io/entity/Q18981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18981> <http://www.w3.org/2000/01/rdf-schema#label> "Larry Ridley" .
+<http://base.semlab.io/entity/Q18981> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19005> .
+<http://base.semlab.io/entity/Q1695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1695> <http://www.w3.org/2000/01/rdf-schema#label> "Phil Lesh" .
+<http://base.semlab.io/entity/Q1682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1682> <http://www.w3.org/2000/01/rdf-schema#label> "Buell Neidlinger" .
+<http://base.semlab.io/entity/Q19040> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18954> .
+<http://base.semlab.io/entity/Q19040> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q436> .
+<http://base.semlab.io/entity/Q19040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19040> <http://www.w3.org/2000/01/rdf-schema#label> "Willie Thomas" .
+<http://base.semlab.io/entity/Q940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q940> <http://www.w3.org/2000/01/rdf-schema#label> "Garnett Brown" .
+<http://base.semlab.io/entity/Q1262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1262> <http://www.w3.org/2000/01/rdf-schema#label> "Dannie Richmond" .
+<http://base.semlab.io/entity/Q85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q85> <http://www.w3.org/2000/01/rdf-schema#label> "Nancy Wilson" .
+<http://base.semlab.io/entity/Q85> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q777> .
+<http://base.semlab.io/entity/Q72> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q340> .
+<http://base.semlab.io/entity/Q72> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1177> .
+<http://base.semlab.io/entity/Q72> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q349> .
+<http://base.semlab.io/entity/Q72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q72> <http://www.w3.org/2000/01/rdf-schema#label> "Count Basie" .
+<http://base.semlab.io/entity/Q349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q349> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Hughes" .
+<http://base.semlab.io/entity/Q336> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1643> .
+<http://base.semlab.io/entity/Q336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q336> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Haggart" .
+<http://base.semlab.io/entity/Q336> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q1639> .
+<http://base.semlab.io/entity/Q139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q139> <http://www.w3.org/2000/01/rdf-schema#label> "Freddie Green" .
+<http://base.semlab.io/entity/Q64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q64> <http://www.w3.org/2000/01/rdf-schema#label> "Duke Ellington" .
+<http://base.semlab.io/entity/Q735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q735> <http://www.w3.org/2000/01/rdf-schema#label> "Chu Berry" .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18997> .
+<http://base.semlab.io/entity/Q18957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18957> <http://www.w3.org/2000/01/rdf-schema#label> "James Spaulding" .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19005> .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q468> .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18981> .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18922> .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q18914> .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q934> .
+<http://base.semlab.io/entity/Q18957> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19035> .
+<http://base.semlab.io/entity/Q18931> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q22962> .
+<http://base.semlab.io/entity/Q18931> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19028> .
+<http://base.semlab.io/entity/Q18931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18931> <http://www.w3.org/2000/01/rdf-schema#label> "Cecil Payne" .
+<http://base.semlab.io/entity/Q281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q281> <http://www.w3.org/2000/01/rdf-schema#label> "Art Blakey" .
+<http://base.semlab.io/entity/Q1111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1111> <http://www.w3.org/2000/01/rdf-schema#label> "Stella Brooks" .
+<http://base.semlab.io/entity/Q1238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1238> <http://www.w3.org/2000/01/rdf-schema#label> "Ted FioRito" .
+<http://base.semlab.io/entity/Q35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q35> <http://www.w3.org/2000/01/rdf-schema#label> "Dizzy Gillespie" .
+<http://base.semlab.io/entity/Q509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q509> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Desmond" .
+<http://base.semlab.io/entity/Q496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q496> <http://www.w3.org/2000/01/rdf-schema#label> "Teo Macero" .
+<http://base.semlab.io/entity/Q483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q483> <http://www.w3.org/2000/01/rdf-schema#label> "Buddy Tate" .
+<http://base.semlab.io/entity/Q483> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q72> .
+<http://base.semlab.io/entity/Q794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q794> <http://www.w3.org/2000/01/rdf-schema#label> "Bob Cranshaw" .
+<http://base.semlab.io/entity/Q794> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q19036> .
+<http://base.semlab.io/entity/Q597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q597> <http://www.w3.org/2000/01/rdf-schema#label> "David Adams" .
+<http://base.semlab.io/entity/Q908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q908> <http://www.w3.org/2000/01/rdf-schema#label> "Billy Hart" .
+<http://base.semlab.io/entity/Q151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q151> <http://www.w3.org/2000/01/rdf-schema#label> "Chick Corea" .
+<http://base.semlab.io/entity/Q1082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1082> <http://www.w3.org/2000/01/rdf-schema#label> "Carmell Jones" .
+<http://base.semlab.io/entity/Q2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q2007> <http://www.w3.org/2000/01/rdf-schema#label> "Bardu Ali" .
+<http://base.semlab.io/entity/Q379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q379> <http://www.w3.org/2000/01/rdf-schema#label> "Jack DeJohnette" .
+<http://base.semlab.io/entity/Q1914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1914> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Benton" .
+<http://base.semlab.io/entity/Q340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q340> <http://www.w3.org/2000/01/rdf-schema#label> "Sonny Payne" .
+<http://base.semlab.io/entity/Q19> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q400> .
+<http://base.semlab.io/entity/Q19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q19> <http://www.w3.org/2000/01/rdf-schema#label> "Oscar Peterson" .
+<http://base.semlab.io/entity/Q19> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q412> .
+<http://base.semlab.io/entity/Q454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q454> <http://www.w3.org/2000/01/rdf-schema#label> "George Adams" .
+<http://base.semlab.io/entity/Q1683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1683> <http://www.w3.org/2000/01/rdf-schema#label> "Hamid Drake" .
+<http://base.semlab.io/entity/Q954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q954> <http://www.w3.org/2000/01/rdf-schema#label> "Kenny Barron" .
+<http://base.semlab.io/entity/Q249> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q54> .
+<http://base.semlab.io/entity/Q249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q249> <http://www.w3.org/2000/01/rdf-schema#label> "Roy Eldridge" .
+<http://base.semlab.io/entity/Q249> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q127> .
+<http://base.semlab.io/entity/Q86> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q102> .
+<http://base.semlab.io/entity/Q86> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q78> .
+<http://base.semlab.io/entity/Q86> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q97> .
+<http://base.semlab.io/entity/Q86> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q82> .
+<http://base.semlab.io/entity/Q86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q86> <http://www.w3.org/2000/01/rdf-schema#label> "Jimmy Scott" .
+<http://base.semlab.io/entity/Q86> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q112> .
+<http://base.semlab.io/entity/Q941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q941> <http://www.w3.org/2000/01/rdf-schema#label> "Benny Powell" .
+<http://base.semlab.io/entity/Q941> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q35> .
+<http://base.semlab.io/entity/Q18974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q18974> <http://www.w3.org/2000/01/rdf-schema#label> "Jymie Merritt" .
+<http://base.semlab.io/entity/Q60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q60> <http://www.w3.org/2000/01/rdf-schema#label> "Milt Hinton" .
+<http://base.semlab.io/entity/Q60> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q735> .
+<http://base.semlab.io/entity/Q1364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1364> <http://www.w3.org/2000/01/rdf-schema#label> "Blinky Allen" .
+<http://base.semlab.io/entity/Q311> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q509> .
+<http://base.semlab.io/entity/Q311> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q575> .
+<http://base.semlab.io/entity/Q311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q311> <http://www.w3.org/2000/01/rdf-schema#label> "Dave Brubeck" .
+<http://base.semlab.io/entity/Q311> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q535> .
+<http://base.semlab.io/entity/Q127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q127> <http://www.w3.org/2000/01/rdf-schema#label> "Ella Fitzgerald" .
+<http://base.semlab.io/entity/Q101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q101> <http://www.w3.org/2000/01/rdf-schema#label> "Louis Armstrong" .
+<http://base.semlab.io/entity/Q635> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q35> .
+<http://base.semlab.io/entity/Q635> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q661> .
+<http://base.semlab.io/entity/Q635> <http://www.semanticweb.org/KEProject/MusicalInfluences#sharedMusicGroup> <http://base.semlab.io/entity/Q2007> .
+<http://base.semlab.io/entity/Q635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q635> <http://www.w3.org/2000/01/rdf-schema#label> "Melba Liston" .
+<http://base.semlab.io/entity/Q1465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q1465> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Blade" .
+<http://base.semlab.io/entity/Q412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q412> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Carney" .
+<http://base.semlab.io/entity/Q959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q959> <http://www.w3.org/2000/01/rdf-schema#label> "Lee Morgan" .
+<http://base.semlab.io/entity/Q78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q78> <http://www.w3.org/2000/01/rdf-schema#label> "Little Esther" .
+<http://base.semlab.io/entity/Q920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q920> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Williams" .
+<http://base.semlab.io/entity/Q736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/KEProject/MusicalInfluences#MusicArtist> .
+<http://base.semlab.io/entity/Q736> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Davis" .
