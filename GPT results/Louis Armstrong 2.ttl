@@ -1,0 +1,169 @@
+@prefix : <http://www.semanticweb.org/KEProject/MusicalInfluences#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+:LouisArmstrong rdf:type :MusicArtist ;
+                :birthCity :NewOrleans ;
+                :birthCountry :UnitedStates ;
+                :bestKnownFor "Louis Armstrong was a jazz trumpeter, bandleader and singer known for songs like 'What a Wonderful World,' 'Hello, Dolly,' 'Star Dust' and 'La Vie En Rose'." .
+
+:LouisArmstrong :birthYear "1901" ;
+                :birthDate "August 4, 1901" ;
+                :gender "Male" ;
+                :astrologicalSign :Leo ;
+                :hasAuthor :SwingThatMusicAutobiography .
+
+:SwingThatMusicAutobiography rdf:type :Score ;
+                               :hasAuthor :LouisArmstrong .
+
+:LouisArmstrong :colleague :WyntonMarsalis ;
+                :colleague :JonFaddis ;
+                :colleague :NicholasPayton ;
+                :createdRecording :WhatAWonderfulWorldRecording ;
+                :createdRecording :HelloDollyRecording ;
+                :createdRecording :StarDustRecording ;
+                :createdRecording :LaVieEnRoseRecording ;
+                :wasInfluencedBy :JoeGlaser ;
+                :wasInfluencedBy :RobinWilliams .
+
+:WhatAWonderfulWorldRecording rdf:type :Recording ;
+                             :includedInAlbum :WhatAWonderfulWorldAlbum .
+
+:HelloDollyRecording rdf:type :Recording ;
+                     :includedInAlbum :HelloDollyAlbum .
+
+:StarDustRecording rdf:type :Recording ;
+                   :includedInAlbum :StarDustAlbum .
+
+:LaVieEnRoseRecording rdf:type :Recording ;
+                      :includedInAlbum :LaVieEnRoseAlbum .
+
+:WhatAWonderfulWorldAlbum rdf:type :Album .
+
+:HelloDollyAlbum rdf:type :Album .
+
+:StarDustAlbum rdf:type :Album .
+
+:LaVieEnRoseAlbum rdf:type :Album .
+
+:LouisArmstrong :collaboratedWith :RobinWilliams .
+
+:LouisArmstrong :playedSameGenre :Jazz .
+
+:LouisArmstrong :hasMet :JoeGlaser .
+
+:LouisArmstrong :birthCity :NewOrleans ;
+                :birthCountry :UnitedStates .
+
+:JoeGlaser rdf:type :MusicAgent .
+
+:RobinWilliams rdf:type :MusicAgent .
+
+:WyntonMarsalis rdf:type :MusicArtist .
+
+:JonFaddis rdf:type :MusicArtist .
+
+:NicholasPayton rdf:type :MusicArtist .
+
+:LouisArmstrong :sharedMusicGroupWith :JoeGlaser ;
+                :sharedMusicGroupWith :RobinWilliams .
+
+:LouisArmstrong :performedWith :JoeGlaser ;
+                :performedWith :RobinWilliams .
+
+:LouisArmstrong :createdScore :WhatAWonderfulWorldScore .
+
+:WhatAWonderfulWorldScore rdf:type :Score ;
+                          :hasAuthor :LouisArmstrong .
+
+:LouisArmstrong :closeFriendOf :JoeGlaser .
+
+:JoeGlaser :hasMet :LouisArmstrong ;
+           :performedWith :LouisArmstrong .
+
+:WyntonMarsalis :hasMet :LouisArmstrong ;
+                :performedWith :LouisArmstrong .
+
+:JonFaddis :hasMet :LouisArmstrong ;
+            :performedWith :LouisArmstrong .
+
+:NicholasPayton :hasMet :LouisArmstrong ;
+                 :performedWith :LouisArmstrong .
+
+:JoeGlaser :performedWith :WyntonMarsalis ;
+           :performedWith :JonFaddis ;
+           :performedWith :NicholasPayton ;
+           :closeFriendOf :LouisArmstrong .
+
+:RobinWilliams :performedWith :LouisArmstrong ;
+                :closeFriendOf :LouisArmstrong .
+
+:WyntonMarsalis :closeFriendOf :LouisArmstrong .
+
+:JonFaddis :closeFriendOf :LouisArmstrong .
+
+:NicholasPayton :closeFriendOf :LouisArmstrong .
+
+:WyntonMarsalis :playedSameGenre :Jazz .
+
+:JonFaddis :playedSameGenre :Jazz .
+
+:NicholasPayton :playedSameGenre :Jazz .
+
+:LouisArmstrong :hasScoreAuthor :WhatAWonderfulWorldScore ;
+                :hasScoreAuthor :HelloDollyScore ;
+                :hasScoreAuthor :StarDustScore ;
+                :hasScoreAuthor :LaVieEnRoseScore .
+
+:WhatAWonderfulWorldScore rdf:type :Score ;
+                          :hasScoreAuthor :LouisArmstrong .
+
+:HelloDollyScore rdf:type :Score ;
+                 :hasScoreAuthor :LouisArmstrong .
+
+:StarDustScore rdf:type :Score ;
+               :hasScoreAuthor :LouisArmstrong .
+
+:LaVieEnRoseScore rdf:type :Score ;
+                   :hasScoreAuthor :LouisArmstrong .
+
+:LouisArmstrong :hasMet :RobinWilliams .
+
+:LouisArmstrong :includedInAlbum :WhatAWonderfulWorldAlbum ;
+                :includedInAlbum :HelloDollyAlbum ;
+                :includedInAlbum :StarDustAlbum ;
+                :includedInAlbum :LaVieEnRoseAlbum .
+
+:WhatAWonderfulWorldAlbum :hasAuthor :LouisArmstrong .
+
+:HelloDollyAlbum :hasAuthor :LouisArmstrong .
+
+:StarDustAlbum :hasAuthor :LouisArmstrong .
+
+:LaVieEnRoseAlbum :hasAuthor :LouisArmstrong .
+
+:LouisArmstrong :memberOf :ColoredWaifHomeForBoys ;
+                :memberOf :FiskSchoolForBoys .
+
+:ColoredWaifHomeForBoys rdf:type :MusicGroup .
+
+:FiskSchoolForBoys rdf:type :MusicGroup .
+
+:LouisArmstrong :livedIn :CoronaQueens ;
+                :livedIn :NewOrleans .
+
+:CoronaQueens rdf:type :City ;
+              :birthCity :NewYork ;
+              :birthCountry :UnitedStates .
+
+:NewOrleans rdf:type :City ;
+             :birthState :Louisiana ;
+             :birthCountry :UnitedStates .
+
+:NewYork rdf:type :City ;
+         :birthCountry :UnitedStates .
+
+:UnitedStates rdf:type :Country .
+
+:JoeGlaser rdf:type :MusicAgent .
+
+:RobinWilliams rdf:type :MusicAgent .

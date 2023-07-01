@@ -1,0 +1,110 @@
+@prefix ex: <http://www.semanticweb.org/KEProject/MusicalInfluences#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+# Triples related to artists and their influences
+
+ex:LouisArmstrong rdf:type ex:MusicArtist .
+ex:LouisArmstrong ex:performedWith ex:BingCrosby .
+ex:LouisArmstrong ex:performedWith ex:DukeEllington .
+ex:LouisArmstrong ex:performedWith ex:FletcherHenderson .
+ex:LouisArmstrong ex:performedWith ex:EarlHines .
+ex:LouisArmstrong ex:performedWith ex:JimmieRodgers .
+ex:LouisArmstrong ex:performedWith ex:BessieSmith .
+ex:LouisArmstrong ex:performedWith ex:EllaFitzgerald .
+ex:LouisArmstrong ex:wasInfluencedBy ex:BingCrosby .
+ex:LouisArmstrong ex:wasInfluencedBy ex:FletcherHenderson .
+ex:LouisArmstrong ex:wasInfluencedBy ex:EarlHines .
+ex:LouisArmstrong ex:wasInfluencedBy ex:JimmieRodgers .
+ex:LouisArmstrong ex:wasInfluencedBy ex:BessieSmith .
+ex:BingCrosby ex:wasInfluencedBy ex:LouisArmstrong .
+ex:DukeEllington ex:wasInfluencedBy ex:LouisArmstrong .
+ex:FletcherHenderson ex:wasInfluencedBy ex:LouisArmstrong .
+ex:EarlHines ex:wasInfluencedBy ex:LouisArmstrong .
+ex:JimmieRodgers ex:wasInfluencedBy ex:LouisArmstrong .
+ex:BessieSmith ex:wasInfluencedBy ex:LouisArmstrong .
+ex:EllaFitzgerald ex:wasInfluencedBy ex:LouisArmstrong .
+
+# Triples related to genres
+
+ex:LouisArmstrong ex:playedSameGenre ex:Jazz .
+ex:Crosby ex:playedSameGenre ex:PopularMusic .
+ex:LouisArmstrong ex:playedSameGenre ex:Blues .
+ex:LouisArmstrong ex:playedSameGenre ex:Swing .
+
+# Triples related to recordings and albums
+
+ex:LouisArmstrong ex:createdRecording ex:EllaAndLouis .
+ex:LouisArmstrong ex:createdRecording ex:EllaAndLouisAgain .
+ex:LouisArmstrong ex:includedInAlbum ex:EllaAndLouis .
+ex:LouisArmstrong ex:includedInAlbum ex:EllaAndLouisAgain .
+ex:EllaAndLouis ex:hasAuthor ex:NormanGranz .
+ex:EllaAndLouisAgain ex:hasAuthor ex:NormanGranz .
+ex:EllaAndLouis ex:includedInAlbum ex:PorgyAndBess .
+ex:EllaAndLouisAgain ex:includedInAlbum ex:PorgyAndBess .
+
+# Triples related to recordings and performances
+
+ex:LouisArmstrong ex:createdRecording ex:LouisArmstrongPlaysWCHandy .
+ex:LouisArmstrong ex:createdRecording ex:SatchPlaysFats .
+ex:LouisArmstrongPlaysWCHandy ex:hasAuthor ex:LouisArmstrong .
+ex:SatchPlaysFats ex:hasAuthor ex:LouisArmstrong .
+ex:LouisArmstrong ex:createdRecording ex:TheGreatSummit .
+ex:LouisArmstrong ex:createdRecording ex:TheGreatReunion .
+ex:TheGreatSummit ex:hasAuthor ex:LouisArmstrong .
+ex:TheGreatReunion ex:hasAuthor ex:LouisArmstrong .
+ex:DaveBrubeck ex:performedWith ex:LouisArmstrong .
+ex:DaveBrubeck ex:performedWith ex:LouisArmstrong .
+ex:TheRealAmbassadors ex:hasAuthor ex:DaveBrubeck .
+ex:SummerSong ex:hasAuthor ex:LouisArmstrong .
+
+# Triples related to musical roles and situations
+
+ex:LouisArmstrong rdf:type ex:MusicRole .
+ex:Crosby rdf:type ex:MusicRole .
+ex:LouisArmstrong rdf:type ex:PerformanceSituation .
+ex:LouisArmstrong rdf:type ex:MusicGroup .
+ex:EllaAndLouis rdf:type ex:Album .
+ex:EllaAndLouisAgain rdf:type ex:Album .
+ex:PorgyAndBess rdf:type ex:Album .
+ex:LouisArmstrongPlaysWCHandy rdf:type ex:Recording .
+ex:SatchPlaysFats rdf:type ex:Recording .
+ex:TheGreatSummit rdf:type ex:Recording .
+ex:TheGreatReunion rdf:type ex:Recording .
+ex:TheRealAmbassadors rdf:type ex:Recording .
+ex:SummerSong rdf:type ex:PieceOfMusic .
+
+# Triples related to textual content
+
+ex:Crosby ex:knowsOf ex:LouisArmstrong .
+ex:Crosby ex:wasInfluencedBy ex:LouisArmstrong .
+ex:Crosby ex:includedInAlbum ex:EllaAndLouis .
+ex:Crosby ex:includedInAlbum ex:EllaAndLouisAgain .
+ex:Crosby ex:hasAuthor ex:NormanGranz .
+ex:Crosby ex:playedSameGenre ex:PopularMusic .
+ex:Crosby ex:playedSameGenre ex:Blues .
+ex:Crosby ex:playedSameGenre ex:Swing .
+
+# Triples related to vocals
+
+ex:Crosby ex:hasMet ex:LouisArmstrong .
+ex:Crosby ex:hasMet ex:EllaFitzgerald .
+ex:Crosby ex:collaboratedWith ex:LouisArmstrong .
+ex:Crosby ex:collaboratedWith ex:EllaFitzgerald .
+ex:Crosby ex:performedWith ex:LouisArmstrong .
+ex:Crosby ex:performedWith ex:EllaFitzgerald .
+ex:LouisArmstrong ex:hasMet ex:Crosby .
+ex:EllaFitzgerald ex:hasMet ex:Crosby .
+ex:LouisArmstrong ex:collaboratedWith ex:Crosby .
+ex:EllaFitzgerald ex:collaboratedWith ex:Crosby .
+ex:LouisArmstrong ex:performedWith ex:Crosby .
+ex:EllaFitzgerald ex:performedWith ex:Crosby .
+
+# Triples related to vocal techniques
+
+ex:Crosby ex:hasAuthor ex:TheNewGroveDictionaryOfJazz .
+ex:Crosby ex:includedInAlbum ex:JustOneMoreChance .
+ex:Crosby ex:hasAuthor ex:TheNewGroveDictionaryOfJazz .
+ex:Crosby ex:includedInAlbum ex:JustOneMoreChance .
+ex:JustOneMoreChance ex:hasAuthor ex:Crosby .
+ex:Crosby ex:knowsOf ex:LouisArmstrong .
+ex:Crosby ex:wasInfluencedBy ex:LouisArmstrong .

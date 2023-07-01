@@ -1,0 +1,62 @@
+@prefix : <http://www.semanticweb.org/KEProject/MusicalInfluences#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+# Bing Crosby, a MusicArtist
+:bingCrosby rdf:type :MusicArtist ;
+            :birthYear "1903" ;
+            :birthDate "May 3, 1903" ;
+            :birthState "Washington" ;
+            :birthCity "Tacoma" ;
+            :birthCountry "United States" ;
+            :gender "Male" ;
+            :bestKnownFor "Bing Crosby sang such hit songs as the ever-popular holiday classic 'White Christmas.' The beloved crooner was also a star of radio, movies, and television." ;
+            :astrologicalSign "Taurus" ;
+            :deathYear "1977" ;
+            :deathDate "October 14, 1977" ;
+            :deathCity "Madrid" ;
+            :deathCountry "Spain" .
+
+# Bing Crosby's Friend, Al Rinker
+:alRinker rdf:type :MusicArtist ;
+          :closeFriendOf :bingCrosby .
+
+# "Two Boys and a Piano" performance
+:twoBoysAndAPiano rdf:type :Performance ;
+                  :performedWith :alRinker .
+
+# Bing Crosby's Performance Situation
+:bingCrosbyPerformanceSituation rdf:type :PerformanceSituation ;
+                                 :performedBy :bingCrosby ;
+                                 :situation "Early Career: Music and Radio" .
+
+# Bing Crosby's Musical Influence on his sound
+:bingCrosbyMusicalInfluence rdf:type :MusicalInfluence ;
+                             :influenced :bingCrosby ;
+                             :influencedBy :jazz ;
+                             :description "Many of Crosby's early songs reflected his love for jazz and its influence on his sound. He was skilled at scat-singing and showed a talent for jazz-style phrasing." .
+
+# Bing Crosby's Radio Program
+:crosbyRadioProgram rdf:type :PieceOfMusic ;
+                     :hasAuthor :bingCrosby ;
+                     :title "Bing Crosby Radio Show" ;
+                     :releaseSituation :bingCrosbyPerformanceSituation ;
+                     :description "His radio program became a big success, attracting as many as 50 million listeners during its peak, and lasting nearly 30 years on the airwaves." .
+
+# Bing Crosby's Hits
+:crosbyHit1 rdf:type :PieceOfMusic ;
+            :hasAuthor :bingCrosby ;
+            :title "I Found a Million-Dollar Baby" ;
+            :releaseSituation :bingCrosbyPerformanceSituation .
+
+:crosbyHit2 rdf:type :PieceOfMusic ;
+            :hasAuthor :bingCrosby ;
+            :title "Just One More Chance" ;
+            :releaseSituation :bingCrosbyPerformanceSituation .
+
+:crosbyHit3 rdf:type :PieceOfMusic ;
+            :hasAuthor :bingCrosby ;
+            :title "Please" ;
+            :releaseSituation :bingCrosbyPerformanceSituation .
+
+:crosbyHit4 rdf:type :PieceOfMusic ;
+            :hasAuthor :bingC.
