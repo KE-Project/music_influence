@@ -43,9 +43,9 @@ After opening fuseki the first thing we have to do is to create a dataset select
 Now we can select :
 * **add data**
 * **select files** (we will select the following files)
-    * Protege_Ontology.ttl
-    * All the files inside GPT results
-    * All the files inside Knowledge_Graphs_sparqlanything
+    * **Protege_Ontology.ttl**
+    * All the files inside **GPT results** directory 
+    * All the files inside **Knowledge_Graphs_sparqlanything** directory
 * **upload all**
 
 # Query the Graph
