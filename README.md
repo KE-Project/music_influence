@@ -6,6 +6,8 @@ Creation of an Ontology and a Knowledge Graph that models the influences between
 * Daniele Marini
 
 # Usage 
+The ontology is in the file 'Protege_Ontology.ttl', and has to been opened with Protegé.
+
 In order to query the Knowledge Graph we use a free and open source Java framework called Fuseki. 
 
 The first thing to do is to clone the repository to have access to the data:
