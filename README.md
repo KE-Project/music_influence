@@ -6,7 +6,7 @@ Creation of an Ontology and a Knowledge Graph that models the influences between
 * Daniele Marini
 
 # Usage 
-In order query the Knowledge Graph we can use free and open source Java framework called Fuseki. 
+In order to query the Knowledge Graph we use a free and open source Java framework called Fuseki. 
 
 The first thing to do is to clone the repository to have access to the data:
 
@@ -16,11 +16,11 @@ git clone https://github.com/KE-Project/music_influence.git
 
 ## Requirements
 
-For running the query we first have to dowload fuseki, we can do that from [here](https://dlcdn.apache.org/jena/binaries/apache-jena-fuseki-4.8.0.zip).
-After unzipping the file we can access the directory:
+For running the query we first have to download fuseki: we can do that from [here](https://dlcdn.apache.org/jena/binaries/apache-jena-fuseki-4.8.0.zip).
+After unzipping the file, access the directory:
 
 ```shell
-cd Users/Desktop/apache-jena-fuseki-4.8.0
+cd PATH/apache-jena-fuseki-4.8.0
 ```
 
 and start the server by running
@@ -29,7 +29,7 @@ and start the server by running
 java -jar fuseki-server.jar
 ```
 
-Now we can reach the server on port 3030:  http://localhost:3030/
+After that the server can be reached on port 3030:  http://localhost:3030/
 
 ## Import of the data
 
