@@ -34,19 +34,19 @@ Now we can reach the server on port 3030:  http://localhost:3030/
 ## Import of the data
 
 After opening fuseki the first thing we have to do is to create a dataset selecting the following steps:
-* add one
+* select **add one**
     * choose a name
-    * In-memory – dataset
-    * create dataset
+    * select the **In-memory – dataset** option
+    * select **create dataset**
 
 
 Now we can select :
-* add data
-* select files (we will select the following files)
+* **add data**
+* **select files** (we will select the following files)
     * Protege_Ontology.ttl
     * All the files inside GPT results
     * All the files inside Knowledge_Graphs_sparqlanything
-* upload all
+* **upload all**
 
 # Query the Graph
 
