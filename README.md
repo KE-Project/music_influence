@@ -46,8 +46,8 @@ Now we can select :
 * **add data**
 * **select files** (we will select the following files)
     * **Protege_Ontology.ttl**
-    * All the files inside **GPT results** directory 
-    * All the files inside **Knowledge_Graphs_sparqlanything** directory
+    * All the files inside **ChatGPT data** directory 
+    * All the files inside **LinkedJazz data** directory
 * **upload all**
 
 # Query the Graph
